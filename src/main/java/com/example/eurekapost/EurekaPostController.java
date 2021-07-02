@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/Post/")
+@RequestMapping("/posts/")
 @Slf4j
 public class EurekaPostController {
     @GetMapping("/test")
