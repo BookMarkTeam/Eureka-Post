@@ -1,4 +1,4 @@
-package com.example.eurekapost;
+package com.book.eurekapost;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

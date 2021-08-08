@@ -1,4 +1,4 @@
-package com.example.eurekapost;
+package com.book.eurekapost;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
